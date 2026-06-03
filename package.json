@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-ci-cd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbn103/proyecto-ci-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbn103/proyecto-ci-cd/issues"
+  },
+  "homepage": "https://github.com/rbn103/proyecto-ci-cd#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
